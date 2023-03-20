@@ -1,18 +1,18 @@
-/* h1 {
-  color: darkred;
+h1 {
+  color: green;
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: greenyellow;
 }
 
 p {
-  color: crimson;
+  color: goldenrod;
 }
 
 body {
-  background-color: salmon;
-  font-family: sans-serif;
+  background-color: grey;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
 }
